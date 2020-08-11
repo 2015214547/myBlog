@@ -34,7 +34,7 @@ module.exports = {
     nav,
     sidebarDepth: 2, // 侧边栏显示深度，默认1，最大2（显示到h3标题）
     logo: '/img/avatar.jpg', // 导航栏logo
-    repo: '2015214547', // 导航栏右侧生成Github链接
+    repo: '2015214547/myBlog', // 导航栏右侧生成Github链接
     searchMaxSuggestions: 10, // 搜索结果显示最大数
     lastUpdated: '上次更新', // 更新的时间，及前缀文字   string | boolean (取值为git提交时间)
     docsDir: 'docs', // 编辑的文件夹
@@ -67,7 +67,7 @@ module.exports = {
 
     author: { // 文章默认的作者信息，可在md文件中单独配置此信息 String | {name: String, link: String}
       name: '永远的救赎者', // 必需
-      link: 'https://github.com/2015214547' // 可选的
+      link: 'https://github.com/2015214547/myBlog' // 可选的
     },
     blogger: { // 博主信息，显示在首页侧边栏
       avatar: '/img/mine.jpg',
@@ -84,7 +84,7 @@ module.exports = {
         {
           iconClass: 'icon-github',
           title: 'GitHub',
-          link: 'https://github.com/2015214547'
+          link: 'https://github.com/2015214547/myBlog'
         },
         {
           iconClass: 'icon-erji',
@@ -222,7 +222,7 @@ module.exports = {
           // 模型名称(default: hibiki)>>>取值请参考：
           // https://github.com/JoeyBling/hexo-theme-yilia-plus/wiki/live2d%E6%A8%A1%E5%9E%8B%E5%8C%85%E5%B1%95%E7%A4%BA
           // https://zhousiwei.gitee.io/live2d-widget.js/examples/index.html
-          model: 'shizuku',
+          model: 'hibiki',
           display: {
             position: "left", // 显示位置：left/right(default: 'right')
             width: 135, // 模型的长度(default: 135)
