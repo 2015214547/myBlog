@@ -11,9 +11,8 @@
 
 &emsp;&emsp;袁成成，24岁，宅男，现居武汉，华中师范大学2019届毕业生，目前从事前端开发工作。本人照片如下↓↓↓
 
-::: center
-<img src='https://i.loli.net/2020/08/08/CfUNPeF1qTGRsvH.jpg' alt='本人照片' style="width: 400px;">
-:::
+
+![本人照片](https://i.loli.net/2020/08/08/CfUNPeF1qTGRsvH.jpg)
 
 ## :email: 联系
 
@@ -22,18 +21,3 @@
 - **Email**:  <a href="mailto:826119238@qq.com">826119238@qq.com</a>
 - **GitHub**: <https://github.com/2015214547>
 
-<script>
-  export default {
-    data(){
-      return {
-        qqUrl: 'tencent://message/?uin=826119238&Site=&Menu=yes' 
-      }
-    },
-    mounted(){
-      const flag =  navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i);
-      if(flag){
-        this.qqUrl = 'mqqwpa://im/chat?chat_type=wpa&uin=826119238&version=1&src_type=web&web_src=oicqzone.com'
-      }
-    }
-  }
-</script>   
