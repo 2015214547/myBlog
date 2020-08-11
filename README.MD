@@ -11,12 +11,12 @@
 
 &emsp;&emsp;袁成成，24岁，宅男，现居武汉，华中师范大学2019届毕业生，目前从事前端开发工作。本人照片如下↓↓↓
 
+<img src='https://i.loli.net/2020/08/08/CfUNPeF1qTGRsvH.jpg' style="display: block;margin:0 auto;" alt='本人照片' style="width: 400px;">
 
-![本人照片](https://i.loli.net/2020/08/08/CfUNPeF1qTGRsvH.jpg)
 
 ## :email: 联系
 
-- **QQ：** <a :href="qqUrl" class='qq'>826119238</a>
+- **QQ：** 826119238
 - **WeChat or Mobile:** 13554155030
 - **Email**:  <a href="mailto:826119238@qq.com">826119238@qq.com</a>
 - **GitHub**: <https://github.com/2015214547>
