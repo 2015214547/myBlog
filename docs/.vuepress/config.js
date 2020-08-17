@@ -1,7 +1,7 @@
 const nav = require('./config/nav.js');
 
 module.exports = {
-  title: "永远的救赎者",
+  title: "诗酒趁年华",
   description: 'web前端技术博客,简洁至上,专注web前端学习与总结。JavaScript,js,ES6,TypeScript,vue,python,css3,html5,Node,git,github等技术文章。', // 描述,以 <meta> 标签渲染到页面html中
   // base: '/vuepress-theme-vdoing/', // '/<github仓库名>/'， 默认'/' 
   head: [ // 注入到页面<head> 中的标签，格式[tagName, { attrName: attrValue }, innerHTML?]
@@ -66,12 +66,12 @@ module.exports = {
     },
 
     author: { // 文章默认的作者信息，可在md文件中单独配置此信息 String | {name: String, link: String}
-      name: '永远的救赎者', // 必需
+      name: '诗酒趁年华', // 必需
       link: 'https://github.com/2015214547/myBlog' // 可选的
     },
     blogger: { // 博主信息，显示在首页侧边栏
       avatar: '/img/mine.jpg',
-      name: '永远的救赎者',
+      name: '诗酒趁年华',
       slogan: '知者减半，省者全无'
     },
     social: { // 社交图标，显示于博主信息栏和页脚栏
@@ -100,7 +100,7 @@ module.exports = {
     },
     footer: { // 页脚信息
       createYear: 2020, // 博客创建年份
-      copyrightInfo: '永远的救赎者 | <a href="https://github.com/2015214547" target="_blank">MIT License</a>', // 博客版权信息，支持a标签
+      copyrightInfo: '诗酒趁年华 | <a href="https://github.com/2015214547" target="_blank">MIT License</a>', // 博客版权信息，支持a标签
     }
   },
   // 插件
