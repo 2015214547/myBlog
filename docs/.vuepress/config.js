@@ -100,7 +100,7 @@ module.exports = {
     },
     footer: { // 页脚信息
       createYear: 2020, // 博客创建年份
-      copyrightInfo: '诗酒趁年华 | <a href="https://github.com/2015214547" target="_blank">MIT License</a>', // 博客版权信息，支持a标签
+      copyrightInfo: '诗酒趁年华 | <a href="https://github.com/2015214547/myBlog" target="_blank">MIT License</a>', // 博客版权信息，支持a标签
     }
   },
   // 插件
@@ -222,7 +222,7 @@ module.exports = {
           // 模型名称(default: hibiki)>>>取值请参考：
           // https://github.com/JoeyBling/hexo-theme-yilia-plus/wiki/live2d%E6%A8%A1%E5%9E%8B%E5%8C%85%E5%B1%95%E7%A4%BA
           // https://zhousiwei.gitee.io/live2d-widget.js/examples/index.html
-          model: 'hibiki',
+          model: 'z16',
           display: {
             position: "left", // 显示位置：left/right(default: 'right')
             width: 135, // 模型的长度(default: 135)

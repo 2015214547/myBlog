@@ -36,7 +36,7 @@ module.exports = [{
             link: '/note/es6/'
           },
           {
-            text: '《TypeStyle从零实现axios》',
+            text: '《TypeScript从零实现axios》',
             link: '/note/typescript-axios/'
           }
         ]
@@ -51,6 +51,9 @@ module.exports = [{
         items: [{
           text: "Vue",
           link: "/pages/95c1df/"
+        },{
+          text: "uniapp",
+          link: "/pages/d8df2b/"
         }]
       },
       {
