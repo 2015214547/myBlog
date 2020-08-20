@@ -11,7 +11,7 @@
 
 &emsp;&emsp;袁成成，24岁，宅男，现居武汉，华中师范大学2019届毕业生，目前从事前端开发工作。本人照片如下↓↓↓
 
-<img src='https://i.loli.net/2020/08/08/CfUNPeF1qTGRsvH.jpg' style="display: block;margin:0 auto;" alt='本人照片' style="width: 400px;">
+<img src='https://i.loli.net/2020/08/17/HoOpF9wvJUKhcYG.jpg' style="display: block;margin:0 auto;" alt='本人照片' style="width: 400px;">
 
 
 ## :email: 联系
