@@ -52,6 +52,9 @@ module.exports = [{
           text: "Vue",
           link: "/pages/95c1df/"
         },{
+          text: "React",
+          link: "/pages/68593b/"
+        },{
           text: "uniapp",
           link: "/pages/d8df2b/"
         }]
