@@ -72,7 +72,7 @@ module.exports = {
     blogger: { // 博主信息，显示在首页侧边栏
       avatar: '/img/mine.jpg',
       name: '诗酒趁年华',
-      slogan: '知者减半，省者全无'
+      slogan: '把编程当做游戏，打怪升级'
     },
     social: { // 社交图标，显示于博主信息栏和页脚栏
       // iconfontCssFile: '//at.alicdn.com/t/font_1678482_u4nrnp8xp6g.css', // 可选，阿里图标库在线css文件地址，对于主题没有的图标可自由添加
@@ -90,11 +90,6 @@ module.exports = {
           iconClass: 'icon-erji',
           title: '听音乐',
           link: 'https://music.163.com/#/my/m/music/playlist?id=555380131'
-        },
-        {
-          iconClass: 'icon-youjian',
-          title: '日记',
-          link: '/diary/'
         },
       ]
     },
