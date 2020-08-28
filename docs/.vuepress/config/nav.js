@@ -23,6 +23,14 @@ module.exports = [{
             text: 'javaScript',
             link: "/pages/8143cc480faf9a11/",
           },
+          {
+            text: 'ES6',
+            link: "/pages/ad78a3/",
+          },
+          {
+            text: 'typeScript',
+            link: "/pages/cc6b08/",
+          },
         ]
       },
       {
