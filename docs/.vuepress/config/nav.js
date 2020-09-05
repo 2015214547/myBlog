@@ -65,6 +65,12 @@ module.exports = [{
         },{
           text: "uniapp",
           link: "/pages/d8df2b/"
+        },{
+          text: "flutter",
+          link: "/pages/3aa371/"
+        },{
+          text: "webpack",
+          link: ""
         }]
       },
       {
@@ -75,6 +81,10 @@ module.exports = [{
         }]
       }
     ]
+  },
+  {
+    text: "优秀源码",
+    link: '/pages/33935b/'
   },
   {
     text: "技术资源",
