@@ -29,7 +29,7 @@ module.exports = [{
           },
           {
             text: 'typeScript',
-            link: "/pages/cc6b08/",
+            link: "/pages/a86963/",
           },
         ]
       },

@@ -72,7 +72,7 @@ module.exports = {
     blogger: { // 博主信息，显示在首页侧边栏
       avatar: '/img/mine.jpg',
       name: '诗酒趁年华',
-      slogan: '把编程当做游戏，打怪升级'
+      slogan: '放下苦痛，才能沐浴阳光'
     },
     social: { // 社交图标，显示于博主信息栏和页脚栏
       // iconfontCssFile: '//at.alicdn.com/t/font_1678482_u4nrnp8xp6g.css', // 可选，阿里图标库在线css文件地址，对于主题没有的图标可自由添加
@@ -226,7 +226,7 @@ module.exports = {
             vOffset: 0, //  垂直偏移(default: 0)
           },
           mobile: {
-            show: true // 是否在移动设备上显示(default: false)
+            show: false // 是否在移动设备上显示(default: false)
           },
           react: {
             opacity: 0.8 // 模型透明度(default: 0.8)
