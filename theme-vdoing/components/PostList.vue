@@ -132,6 +132,12 @@ export default {
 </script>
 
 <style lang='stylus'>
+
+.post:hover {
+  box-shadow: 0 2px 6px 6px rgba(7,17,27,0.10);
+  transform: scale(1.01);
+}
+
 .post-list
   margin-bottom 4rem
   .post
