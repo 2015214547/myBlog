@@ -370,7 +370,7 @@ export default {
     text-align: center;
     cursor: pointer;
     transition: all 0.5s;
-    background: url('http://www.yuanchengcheng.vip/img/avatar.jpg') center center no-repeat;
+    background: url('https://i.loli.net/2020/10/07/NgSGlFLpIcPohxB.jpg') center center no-repeat;
     background-size: cover;
     box-shadow: 0 0 15px $accentColor;
   }

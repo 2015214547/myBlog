@@ -131,7 +131,7 @@ module.exports = [{
       },
       {
         text: "文章",
-        link: "/pages/2d615df9a36a98ed"
+        link: "/pages/2d615df9a36a98ed/"
       },
     ]
   },
