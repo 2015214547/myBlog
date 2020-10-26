@@ -68,7 +68,7 @@ module.exports = {
 
     author: { // 文章默认的作者信息，可在md文件中单独配置此信息 String | {name: String, link: String}
       name: '诗酒趁年华', // 必需
-      link: 'https://github.com/2015214547/myBlog' // 可选的
+      link: 'https://github.com/2015214547/myBlog' // 可选的  https://yuanchengcheng.coding.net/public/myblog/myBlog/git    https://github.com/2015214547/myBlog
     },
     blogger: { // 博主信息，显示在首页侧边栏
       avatar: '/img/mine.jpg',

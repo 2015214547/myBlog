@@ -157,7 +157,7 @@ module.exports = [{
     ]
   },
   {
-    text: '关于',
+    text: '关于我',
     link: '/aboutMe/',
   },
 ]
